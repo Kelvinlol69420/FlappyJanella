@@ -363,7 +363,7 @@ bird = {
     ],
     fr: 0,
     //object's key-value properties pinpointing its location
-    width: 35,
+    width: 34,
     height: 24,
     //values for drawing on canvas
     x: 50,
